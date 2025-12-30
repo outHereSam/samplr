@@ -879,7 +879,7 @@
     "@unocss/preset-mini" "66.5.12"
     "@unocss/rule-utils" "66.5.12"
 
-"@unocss/preset-wind4@66.5.12":
+"@unocss/preset-wind4@66.5.12", "@unocss/preset-wind4@^66.5.12":
   version "66.5.12"
   resolved "https://registry.yarnpkg.com/@unocss/preset-wind4/-/preset-wind4-66.5.12.tgz#db00d338e3952d5612ef2f7daeb6cca703ebb773"
   integrity sha512-JVddnLJ6NOk7hOXA0Y8SYbQEu+JpURbE9o/IHVCkRClVRkE81b9KgJf7WQa/8KIr1O20wRRFdt9QRH4m3pZJ/A==

@@ -1,4 +1,9 @@
-import { defineConfig, presetIcons, presetUno, presetTypography } from "unocss";
+import {
+  defineConfig,
+  presetIcons,
+  presetTypography,
+  presetWind4,
+} from "unocss";
 
 export default defineConfig({
   theme: {
@@ -22,5 +27,5 @@ export default defineConfig({
       "font-semibold tracking-[0.2em] text-xs uppercase text-white/60",
     "knob-label": "text-xs uppercase tracking-wide text-white/60",
   },
-  presets: [presetUno(), presetIcons(), presetTypography()],
+  presets: [presetWind4(), presetIcons(), presetTypography()],
 });
